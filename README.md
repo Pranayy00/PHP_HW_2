@@ -75,4 +75,4 @@ employee_db/
 
 ![alt text](images/insertdb.png)
  ![alt text](images/insertQ3.o_db.png)
-  ![alt text](images/insertQ3.png) ![alt text](../images/regi_Q4_error.png) ![alt text](../images/regi.png) ![alt text](../images/regis_Q4_DB.png) ![alt text](../images/retrieve.png) ![alt text](../images/show.png) ![alt text](../images/update.png) ![alt text](../images/update1_db.png)
+  ![alt text](images/insertQ3.png) ![alt text](images/regi_Q4_error.png) ![alt text](images/regi.png) ![alt text](images/regis_Q4_DB.png) ![alt text](images/retrieve.png) ![alt text](images/show.png) ![alt text](images/update.png) ![alt text](images/update1_db.png)
