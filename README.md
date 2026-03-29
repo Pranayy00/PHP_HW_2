@@ -55,15 +55,28 @@
    create table emp_register(name varchar(30),job_title(30),salary double);
    ```
 
-   ## ▶️ 4. Insert Page
+   ## ▶️ 💠 Insert Page
 <p align="center"> <img src="images/insert.png" width="45%"> </p>
 <p align="center"> <img src="images/insertdb.png" width="45%"> </p>
 ![alt text](image.png)
 ![alt text](image.png)
+------------------------------------------------------------
 
+ ## ▶️ 💠 Update Page
+<p align="center"> <img src="images/update.png" width="45%"> </p>
+<p align="center"> <img src="images/update_db.png.png" width="45%"> </p>
 
- ## ▶️ 4. Update Page
-<p align="center"> <img src="images/insert.png" width="45%"> </p>
-
+![alt text](<Screenshot 2026-03-28 190906.png>)
 ![alt text](image.png)
+-----------------------------------------------------------------------
 
+ ## ▶️ 💠 Delete Page
+<p align="center"> <img src="images/delete.png" width="45%"> </p>
+<p align="center"> <img src="images/delete_db.png" width="45%"> </p>
+![alt text](image.png)
+![alt text](<Screenshot 2026-03-28 190849.png>)
+-------------------------------------------------------------
+## ▶️ 💠 Show Page
+<p align="center"> <img src="images/show.png" width="45%"> </p>
+![alt text](image.png)
+---------------------------------------------
