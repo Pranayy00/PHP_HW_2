@@ -134,7 +134,6 @@ if ($_SERVER["REQUEST_METHOD"]==="POST") {
     $sql=$conn->prepare("insert into Emp values(?,?,?)");
     $sql->bind_param('ssd',$name,$job,$sal);
     if ($sql->execute()) {
-        echo "Data inserted";
          header("Location: " . $_SERVER["PHP_SELF"]);
         exit();
 
