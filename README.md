@@ -69,7 +69,7 @@ employee_db/
 
 
 
-![alt text](../images/delete_db.png) 
+![alt text](images/delete_db.png) 
 ![alt text](../images/delete.png) 
 ![alt text](../images/insert.png) 
 
